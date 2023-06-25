@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App_RadioButton</string>
+    <string name="et1_String">Ingrese el primer valor</string>
+    <string name="et2_String">Ingrese el segundo valor</string>
+    <string name="rbSumar_String">SUMAR</string>
+    <string name="rbRestar_String">RESTAR</string>
+    <string name="btCalcular_String">CALCULAR</string>
+    <string name="tvResultado_String">Resultado:</string>
+    <string name="btLimpiar_String">C</string>
+    <string name="rbMultiplicar_String">MULTIPLICAR</string>
+    <string name="rbDividir_String">DIVIDIR</string>
+</resources>
